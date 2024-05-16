@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FieldComponent } from './components/field/field.component';
 import { ContentComponent } from './components/content/content.component';
-import { JogadoresComponent } from './components/jogadores/jogadores.component';
 import { CarrouselComponent } from './components/carrousel/carrousel.component';
 
 @NgModule({
@@ -15,7 +14,6 @@ import { CarrouselComponent } from './components/carrousel/carrousel.component';
     HeaderComponent,
     FieldComponent,
     ContentComponent,
-    JogadoresComponent,
     CarrouselComponent
   ],
   imports: [
