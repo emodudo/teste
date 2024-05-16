@@ -22,6 +22,4 @@ export class FieldComponent {
         meuCard.style.left = botaoRect.left + 'px';
     });
 }
-
-  // outros métodos e propriedades do componente
 }
